@@ -1,0 +1,7 @@
+interface:
+  display_name: "GEO 官网诊断"
+  short_description: "诊断官网 AI 搜索可见度并给出落地方案"
+  default_prompt: "Use $geo-website-diagnosis to audit my official website for GEO visibility and produce concrete fixes."
+
+policy:
+  allow_implicit_invocation: true
