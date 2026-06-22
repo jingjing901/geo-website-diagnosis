@@ -1,6 +1,6 @@
 # GEO Website Diagnosis
 
-一个用于官网 GEO（Generative Engine Optimization）诊断的 Codex Skill。它帮助你审计官网、产品站、落地页、文档站、博客、帮助中心等自有内容在 ChatGPT Search、Google AI Overviews / AI Mode、Perplexity、Gemini、Claude、Grok、豆包、通义千问、Kimi、DeepSeek、腾讯元宝、文心/文小言等生成式搜索场景中的可见度、可引用性和转化承接能力。
+一个用于官网 GEO（Generative Engine Optimization）诊断的 Codex Skill。它聚焦官网、产品站、落地页、文档站、博客、帮助中心等自有内容，帮助你从技术可发现性、实体清晰度、可引用内容、权威信号、结构化数据和转化承接等维度做系统审计；在具备实时浏览、搜索结果或 API/人工采样数据时，可进一步分析 ChatGPT Search、Google AI Overviews / AI Mode、Perplexity、Gemini、Claude、Grok、豆包、通义千问、Kimi、DeepSeek、腾讯元宝、文心/文小言等生成式搜索环境中的品牌呈现、官方源引用和竞品对比。
 
 > GEO 不承诺“保证被 AI 引用”。本 Skill 的目标是用可验证的网站质量、实体清晰度、可引用内容块、权威信号、结构化数据和监测体系提升官网成为 AI 答案来源的概率。
 
